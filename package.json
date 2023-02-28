@@ -16,7 +16,7 @@
     "prepare": "husky install"
   },
   "keywords": [],
-  "author": "mr-chidex",
+  "author": "ozodimgba",
   "license": "ISC",
   "dependencies": {
     "@types/jest": "^28.1.6",
